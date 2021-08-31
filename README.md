@@ -1,1 +1,1 @@
-JavaEE_Lesson3
+JavaEE_Lesson3_Spring MVC
